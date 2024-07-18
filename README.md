@@ -1,3 +1,1 @@
-sample readme
-updated sample file 
-upated sample data
+Sample Readme updated smaple file updated sample data new feature
